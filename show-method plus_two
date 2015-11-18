@@ -1,0 +1,11 @@
+
+[1mFrom:[0m /home/nitrous/code/labs/debugging-with-pry-001-prework-web/lib/pry_debugging.rb @ line 1:
+[1mOwner:[0m Object
+[1mVisibility:[0m private
+[1mNumber of lines:[0m 5
+
+[32mdef[0m [1;34mplus_two[0m(num)
+	num + [1;34m2[0m
+  num
+  binding.pry
+[32mend[0m
